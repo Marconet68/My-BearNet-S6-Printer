@@ -18,7 +18,8 @@ My printer configuration
     
     
  - Stepper Motor:
-    - A4...  -> TMC 2130 SPI
+    - A4...  -> TMC 2130 SPI https://github.com/bigtreetech/BIGTREETECH-TMC2130-V3.0
+    
     
  - Extruder:
   - MK8 (std Anet) -> BMG
